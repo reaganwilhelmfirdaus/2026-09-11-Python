@@ -1,0 +1,6 @@
+a = input('Enter A: ')
+b = input('Enter B: ')
+c = input('Enter C: ')
+print(f"{a}" * 2)
+print(f"{b}" * 4)
+print(f"{c}" * 6)
